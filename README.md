@@ -1,10 +1,9 @@
 ### Hi there, I'm Phil and I love to learn! 👋
 
-- 🔭 I’m currently working on a Spanish app.
-- 🌱 I’m learning JavaScript + Frameworks
+- 🔭 I’m currently learning React.
 - 🙏 I’m looking to collaborate on language-learning apps.
 - 🤔 I’m looking for help with audio and subtitle displays.
+- 🇯🇵 I can speak Japanese!
 - 💬 Ask me about Japan.
-- 📫 How to reach me 🐦: @_philNelson
-- 🇯🇵 Fun fact: I can speak Japanese!
+- 📫 Contact me 🐦: @_philNelson
 
