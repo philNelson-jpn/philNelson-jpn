@@ -6,7 +6,7 @@ Full Stack Developer and Designer
 
 * English Teacher in Osaka, Japan 🇯🇵 Father of 3 👶 Fluent in Japanese 🗣 
 * Proficient in Styled-Components 💅🏼  Comfortable with Advanced React + React Router 6 ⚛ 
-* Learning Next.js 13 and Supabase 🧠  
+* Learning Next.js 14 and Supabase 🧠  
 * Open to collaborating on Language-learning apps 🤝  
 
 ### Skills
